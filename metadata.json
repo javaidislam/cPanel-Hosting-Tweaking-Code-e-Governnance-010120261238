@@ -1,0 +1,7 @@
+{
+  "name": "cPanel Hosting Tweaking Code e-Governnance 010120261238",
+  "description": "Integrated ERP and Communication System for the Government of Province, featuring Digital Note Sheet workflow and Fixed Asset Management based on Rules of Business 1986 and Secretariat Instructions 2014.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
